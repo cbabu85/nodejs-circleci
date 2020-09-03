@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/punkdata/nodejs-circleci.git"
+    "url": "git+https://github.com/cbabu85/nodejs-circleci.git"
   },
   "author": "Angel Rivera",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/punkdata/nodejs-circleci/issues"
+    "url": "https://github.com/cbabu85/nodejs-circleci.git/issues"
   },
-  "homepage": "https://github.com/punkdata/nodejs-circleci.git#readme",
+  "homepage": "https://github.com/cbabu85/nodejs-circleci.git#readme",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4",
